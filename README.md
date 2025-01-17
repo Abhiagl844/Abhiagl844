@@ -19,3 +19,10 @@ OS = ["Ubuntu", "Windows"]
 ![](https://img.shields.io/badge/Intel-iRIS_Xe-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=4bbf92)
 
 ##
+#
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhiagl844" alt="Abhiagl844 " /></a> </p>
+
+
+##
