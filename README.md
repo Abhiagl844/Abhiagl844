@@ -7,7 +7,8 @@
 Name = "Abhishek Kumar Agrawal"
 Interests = ["Coding", "Problem Solving", "Machine Learning", "App Development"]
 Languages = ["C", "Cpp", "Python", "HTML", "CSS",]
-Frameworks/Libraries: ["Tailwind CSS"]
+Frameworks/Libraries: ["Tailwind CSS","Django
+"]
 OS = ["Ubuntu", "Windows"]
 ```
 
